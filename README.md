@@ -1,4 +1,4 @@
-# Analog-Clock
+# Web Clock
 
 ### About
 This project is an **Web Clock** that has been developed to replicate the **Wall Clock**.
